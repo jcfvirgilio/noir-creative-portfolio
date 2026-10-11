@@ -2,6 +2,8 @@
 
 ### Landing Page Premium | Proyecto de Portafolio Frontend
 
+🔗 **Demo en vivo:** [https://noir-creative-portfolio.vercel.app/](https://noir-creative-portfolio.vercel.app/)
+
 NOIR es una landing page conceptual de un estudio creativo de inteligencia artificial, desarrollada con **Next.js 15, React 19, TypeScript y CSS moderno**.
 
 El proyecto tiene como objetivo demostrar habilidades de desarrollo frontend, diseño de interfaces modernas, experiencias visuales interactivas, accesibilidad y optimización del rendimiento web.
@@ -20,7 +22,7 @@ La dirección visual es "Monolito" (negro profundo, una pieza metálica protagon
 - **CSS moderno:** Estilos personalizados, composiciones visuales, efectos y animaciones.
 - **IntersectionObserver API:** Detección de elementos visibles para activar animaciones durante el desplazamiento.
 - **Git y GitHub:** Control de versiones y gestión del código fuente.
-- **Vercel:** Plataforma prevista para el despliegue de la aplicación.
+- **Vercel:** Plataforma de despliegue de la aplicación.
 
 ## Características principales
 
