@@ -30,7 +30,6 @@ La dirección visual es "Monolito" (negro profundo, una pieza metálica protagon
 - Tipografías cargadas con `next/font` (Instrument Serif, Inter Tight, JetBrains Mono).
 - Animaciones de entrada activadas durante el desplazamiento.
 - Compatibilidad con `prefers-reduced-motion` para respetar las preferencias de accesibilidad.
-- Navegación móvil accesible mediante teclado.
 - Estructura semántica HTML.
 - Metadatos SEO y descripción Open Graph.
 - Composiciones gráficas originales sin depender de imágenes externas.
