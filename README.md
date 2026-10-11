@@ -2,11 +2,11 @@
 
 ### Landing Page Premium | Proyecto de Portafolio Frontend
 
-NOIR es una landing page conceptual de un estudio creativo digital, desarrollada con **Next.js 15, React 19, TypeScript y CSS moderno**.
+NOIR es una landing page conceptual de un estudio creativo de inteligencia artificial, desarrollada con **Next.js 15, React 19, TypeScript y CSS moderno**.
 
 El proyecto tiene como objetivo demostrar habilidades de desarrollo frontend, diseño de interfaces modernas, experiencias visuales interactivas, accesibilidad y optimización del rendimiento web.
 
-La propuesta combina una estética editorial contemporánea con composiciones visuales originales, animaciones sutiles y un diseño adaptable a distintos dispositivos.
+La dirección visual es "Monolito" (negro profundo, una pieza metálica protagonista, espacio negativo) con la tipografía y la retícula discreta de una estética técnica: serif editorial, grotesca neutra y mono, sobre una rejilla de 12 columnas (4 en móvil).
 
 > **Nota:** NOIR es un proyecto conceptual creado con fines de portafolio profesional. El estudio y los proyectos presentados son ficticios y no representan trabajos comerciales realizados para clientes.
 
@@ -26,7 +26,8 @@ La propuesta combina una estética editorial contemporánea con composiciones vi
 
 - Diseño editorial premium con identidad visual propia.
 - Interfaz responsive adaptable a dispositivos móviles, tabletas y escritorio.
-- Hero principal con ilustración de apariencia tridimensional construida mediante CSS.
+- Hero con un monolito de acero cepillado construido con cinco planos CSS en 3D real, con inclinación según el cursor.
+- Tipografías cargadas con `next/font` (Instrument Serif, Inter Tight, JetBrains Mono).
 - Animaciones de entrada activadas durante el desplazamiento.
 - Compatibilidad con `prefers-reduced-motion` para respetar las preferencias de accesibilidad.
 - Navegación móvil accesible mediante teclado.
